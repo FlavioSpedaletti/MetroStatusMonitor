@@ -1,0 +1,14 @@
+{
+  "IntervaloVerificacao": 10,
+  "IniciarComWindows": false,
+  "NotificarApenasAlteracoes": true,
+  "MinimizarAoIniciar": true,
+  "ModoDebug": true,
+  "PersistirEmJson": false,
+  "MonitorarLinha1Azul": true,
+  "MonitorarLinha2Verde": true,
+  "MonitorarLinha3Vermelha": true,
+  "MonitorarLinha4Amarela": true,
+  "MonitorarLinha5Lilas": true,
+  "MonitorarLinha15Prata": true
+}

@@ -1,0 +1,35 @@
+# Arquivos binários e de compilação
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Arquivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Pacotes NuGet
+packages/
+*.nupkg
+
+# Arquivos temporários
+[Tt]emp/
+*.tmp
+*.log
+*.vsp
+*.psess
+
+# Logs e arquivos locais
+*.log
+*.sqlite
+
+# Arquivos específicos da aplicação
+iconload_error.log
+iconload_exception.log 

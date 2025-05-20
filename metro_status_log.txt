@@ -1,0 +1,1851 @@
+[14:55:59] Consultando status às 14:55:59...
+[14:56:13] Recebidos 28142 caracteres HTML.
+[14:56:13] Usando horário atual: 14:56
+[14:56:13] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[14:56:13] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[14:56:13] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[14:56:13] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[14:56:13] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[14:56:13] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[14:56:13] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[14:56:13] Primeira ocorrência de Linha 1-Azul: Operação Normal
+[14:56:13] Primeira ocorrência de Linha 2-Verde: Operação Normal
+[14:56:13] Primeira ocorrência de Linha 3-Vermelha: Operação Normal
+[14:56:13] Primeira ocorrência de Linha 4-Amarela: Operação Normal
+[14:56:13] Primeira ocorrência de Linha 5-Lilás: Operação Normal
+[14:56:13] Primeira ocorrência de Linha 15-Prata: Operação Normal
+[14:56:23] Consultando status às 14:56:23...
+[14:56:23] Recebidos 28142 caracteres HTML.
+[14:56:23] Usando horário atual: 14:56
+[14:56:23] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[14:56:23] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[14:56:23] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[14:56:23] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[14:56:23] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[14:56:23] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[14:56:23] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[14:56:33] Consultando status às 14:56:33...
+[14:56:33] Recebidos 28142 caracteres HTML.
+[14:56:33] Usando horário atual: 14:56
+[14:56:33] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[14:56:33] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[14:56:33] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[14:56:33] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[14:56:33] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[14:56:33] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[14:56:33] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[14:57:07] Consultando status às 14:57:07...
+[14:57:08] Recebidos 28142 caracteres HTML.
+[14:57:08] Usando horário atual: 14:57
+[14:57:08] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[14:57:08] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[14:57:08] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[14:57:08] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[14:57:08] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[14:57:08] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[14:57:08] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[14:57:08] Primeira ocorrência de Linha 1-Azul: Operação Normal
+[14:57:08] Primeira ocorrência de Linha 2-Verde: Operação Normal
+[14:57:08] Primeira ocorrência de Linha 3-Vermelha: Operação Normal
+[14:57:08] Primeira ocorrência de Linha 4-Amarela: Operação Normal
+[14:57:08] Primeira ocorrência de Linha 5-Lilás: Operação Normal
+[14:57:08] Primeira ocorrência de Linha 15-Prata: Operação Normal
+[14:57:18] Consultando status às 14:57:18...
+[14:57:18] Recebidos 28142 caracteres HTML.
+[14:57:18] Usando horário atual: 14:57
+[14:57:18] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[14:57:18] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[14:57:18] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[14:57:18] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[14:57:18] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[14:57:18] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[14:57:18] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[14:57:28] Consultando status às 14:57:28...
+[14:57:28] Recebidos 28142 caracteres HTML.
+[14:57:28] Usando horário atual: 14:57
+[14:57:28] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[14:57:28] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[14:57:28] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[14:57:28] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[14:57:28] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[14:57:28] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[14:57:28] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[14:57:39] Consultando status às 14:57:39...
+[14:57:39] Recebidos 28142 caracteres HTML.
+[14:57:39] Usando horário atual: 14:57
+[14:57:39] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[14:57:39] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[14:57:39] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[14:57:39] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[14:57:39] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[14:57:39] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[14:57:39] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[14:57:49] Consultando status às 14:57:49...
+[14:57:49] Recebidos 28142 caracteres HTML.
+[14:57:49] Usando horário atual: 14:57
+[14:57:49] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[14:57:49] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[14:57:49] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[14:57:49] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[14:57:49] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[14:57:49] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[14:57:49] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[14:57:59] Consultando status às 14:57:59...
+[14:57:59] Recebidos 28142 caracteres HTML.
+[14:57:59] Usando horário atual: 14:57
+[14:57:59] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[14:57:59] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[14:57:59] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[14:57:59] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[14:57:59] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[14:57:59] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[14:57:59] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[14:58:09] Consultando status às 14:58:09...
+[14:58:15] Recebidos 28164 caracteres HTML.
+[14:58:15] Usando horário atual: 14:58
+[14:58:15] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[14:58:15] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[14:58:15] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[14:58:15] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[14:58:15] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[14:58:15] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[14:58:15] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[14:59:04] Consultando status às 14:59:04...
+[14:59:05] Recebidos 28164 caracteres HTML.
+[14:59:05] Usando horário atual: 14:59
+[14:59:05] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[14:59:05] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[14:59:05] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[14:59:05] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[14:59:05] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[14:59:05] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[14:59:05] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[14:59:05] Primeira ocorrência de Linha 1-Azul: Operação Normal
+[14:59:05] Primeira ocorrência de Linha 2-Verde: Operação Normal
+[14:59:05] Primeira ocorrência de Linha 3-Vermelha: Operação Normal
+[14:59:05] Primeira ocorrência de Linha 4-Amarela: Operação Normal
+[14:59:05] Primeira ocorrência de Linha 5-Lilás: Operação Normal
+[14:59:05] Primeira ocorrência de Linha 15-Prata: Operação Normal
+[14:59:15] Consultando status às 14:59:15...
+[14:59:15] Recebidos 28164 caracteres HTML.
+[14:59:15] Usando horário atual: 14:59
+[14:59:15] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[14:59:15] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[14:59:15] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[14:59:15] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[14:59:15] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[14:59:15] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[14:59:15] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:02:26] Consultando status às 15:02:26...
+[15:02:33] Recebidos 28164 caracteres HTML.
+[15:02:33] Texto do nó de atualização: Atualizado: 20/05/2025 15:02:30
+[15:02:33] Horário completo extraído: 20/05/2025 15:02:30
+[15:02:33] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:02:33] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:02:33] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:02:33] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:02:33] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:02:33] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:02:33] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:02:33] Primeira ocorrência de Linha 1-Azul: Operação Normal
+[15:02:33] Primeira ocorrência de Linha 2-Verde: Operação Normal
+[15:02:33] Primeira ocorrência de Linha 3-Vermelha: Operação Normal
+[15:02:33] Primeira ocorrência de Linha 4-Amarela: Operação Normal
+[15:02:33] Primeira ocorrência de Linha 5-Lilás: Operação Normal
+[15:02:33] Primeira ocorrência de Linha 15-Prata: Operação Normal
+[15:02:43] Consultando status às 15:02:43...
+[15:02:43] Recebidos 28164 caracteres HTML.
+[15:02:43] Texto do nó de atualização: Atualizado: 20/05/2025 15:02:30
+[15:02:43] Horário completo extraído: 20/05/2025 15:02:30
+[15:02:43] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:02:43] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:02:43] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:02:43] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:02:43] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:02:43] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:02:43] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:03:14] Consultando status às 15:03:14...
+[15:03:15] Recebidos 28164 caracteres HTML.
+[15:03:15] Texto do nó de atualização: Atualizado: 20/05/2025 15:02:30
+[15:03:15] Horário completo extraído: 20/05/2025 15:02:30
+[15:03:15] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:03:15] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:03:15] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:03:15] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:03:15] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:03:15] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:03:15] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:03:15] Primeira ocorrência de Linha 1-Azul: Operação Normal
+[15:03:15] Primeira ocorrência de Linha 2-Verde: Operação Normal
+[15:03:15] Primeira ocorrência de Linha 3-Vermelha: Operação Normal
+[15:03:15] Primeira ocorrência de Linha 4-Amarela: Operação Normal
+[15:03:15] Primeira ocorrência de Linha 5-Lilás: Operação Normal
+[15:03:15] Primeira ocorrência de Linha 15-Prata: Operação Normal
+[15:11:45] Consultando status às 15:11:45...
+[15:11:50] Recebidos 28164 caracteres HTML.
+[15:11:50] Texto do nó de atualização: Atualizado: 20/05/2025 15:11:47
+[15:11:50] Horário completo extraído: 20/05/2025 15:11:47
+[15:11:50] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:11:50] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:11:50] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:11:50] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:11:50] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:11:50] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:11:50] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:11:50] Primeira ocorrência de Linha 1-Azul: Operação Normal
+[15:11:50] Primeira ocorrência de Linha 2-Verde: Operação Normal
+[15:11:50] Primeira ocorrência de Linha 3-Vermelha: Operação Normal
+[15:11:50] Primeira ocorrência de Linha 4-Amarela: Operação Normal
+[15:11:50] Primeira ocorrência de Linha 5-Lilás: Operação Normal
+[15:11:50] Primeira ocorrência de Linha 15-Prata: Operação Normal
+[15:12:00] Consultando status às 15:12:00...
+[15:12:01] Recebidos 28164 caracteres HTML.
+[15:12:01] Texto do nó de atualização: Atualizado: 20/05/2025 15:11:47
+[15:12:01] Horário completo extraído: 20/05/2025 15:11:47
+[15:12:01] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:12:01] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:12:01] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:12:01] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:12:01] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:12:01] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:12:01] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:12:06] Consultando status às 15:12:06...
+[15:12:06] Recebidos 28164 caracteres HTML.
+[15:12:06] Texto do nó de atualização: Atualizado: 20/05/2025 15:11:47
+[15:12:06] Horário completo extraído: 20/05/2025 15:11:47
+[15:12:06] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:12:06] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:12:06] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:12:06] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:12:06] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:12:06] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:12:06] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:12:11] Consultando status às 15:12:11...
+[15:12:11] Recebidos 28164 caracteres HTML.
+[15:12:11] Texto do nó de atualização: Atualizado: 20/05/2025 15:11:47
+[15:12:11] Horário completo extraído: 20/05/2025 15:11:47
+[15:12:11] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:12:11] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:12:11] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:12:11] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:12:11] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:12:11] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:12:11] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:12:21] Consultando status às 15:12:21...
+[15:12:21] Recebidos 28164 caracteres HTML.
+[15:12:21] Texto do nó de atualização: Atualizado: 20/05/2025 15:11:47
+[15:12:21] Horário completo extraído: 20/05/2025 15:11:47
+[15:12:21] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:12:21] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:12:21] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:12:21] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:12:21] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:12:21] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:12:21] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:12:27] Consultando status às 15:12:27...
+[15:12:27] Recebidos 28164 caracteres HTML.
+[15:12:27] Texto do nó de atualização: Atualizado: 20/05/2025 15:11:47
+[15:12:27] Horário completo extraído: 20/05/2025 15:11:47
+[15:12:27] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:12:27] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:12:27] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:12:27] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:12:27] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:12:27] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:12:27] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:12:31] Consultando status às 15:12:31...
+[15:12:31] Recebidos 28164 caracteres HTML.
+[15:12:31] Texto do nó de atualização: Atualizado: 20/05/2025 15:11:47
+[15:12:31] Horário completo extraído: 20/05/2025 15:11:47
+[15:12:31] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:12:31] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:12:31] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:12:31] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:12:31] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:12:31] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:12:31] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:12:41] Consultando status às 15:12:41...
+[15:12:41] Recebidos 28164 caracteres HTML.
+[15:12:41] Texto do nó de atualização: Atualizado: 20/05/2025 15:11:47
+[15:12:41] Horário completo extraído: 20/05/2025 15:11:47
+[15:12:41] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:12:41] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:12:41] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:12:41] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:12:41] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:12:41] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:12:41] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:12:51] Consultando status às 15:12:51...
+[15:12:57] Recebidos 28164 caracteres HTML.
+[15:12:57] Texto do nó de atualização: Atualizado: 20/05/2025 15:12:54
+[15:12:57] Horário completo extraído: 20/05/2025 15:12:54
+[15:12:57] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:12:57] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:12:57] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:12:57] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:12:57] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:12:57] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:12:57] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:13:07] Consultando status às 15:13:07...
+[15:13:07] Recebidos 28164 caracteres HTML.
+[15:13:07] Texto do nó de atualização: Atualizado: 20/05/2025 15:12:54
+[15:13:07] Horário completo extraído: 20/05/2025 15:12:54
+[15:13:07] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:13:07] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:13:07] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:13:07] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:13:07] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:13:07] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:13:07] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:13:17] Consultando status às 15:13:17...
+[15:13:17] Recebidos 28164 caracteres HTML.
+[15:13:17] Texto do nó de atualização: Atualizado: 20/05/2025 15:12:54
+[15:13:17] Horário completo extraído: 20/05/2025 15:12:54
+[15:13:17] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:13:17] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:13:17] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:13:17] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:13:17] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:13:17] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:13:17] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:13:27] Consultando status às 15:13:27...
+[15:13:27] Recebidos 28164 caracteres HTML.
+[15:13:27] Texto do nó de atualização: Atualizado: 20/05/2025 15:12:54
+[15:13:27] Horário completo extraído: 20/05/2025 15:12:54
+[15:13:27] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:13:27] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:13:27] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:13:27] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:13:27] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:13:27] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:13:27] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:13:37] Consultando status às 15:13:37...
+[15:13:37] Recebidos 28164 caracteres HTML.
+[15:13:37] Texto do nó de atualização: Atualizado: 20/05/2025 15:12:54
+[15:13:37] Horário completo extraído: 20/05/2025 15:12:54
+[15:13:37] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:13:37] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:13:37] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:13:37] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:13:37] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:13:37] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:13:37] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:13:48] Consultando status às 15:13:48...
+[15:13:48] Recebidos 28164 caracteres HTML.
+[15:13:48] Texto do nó de atualização: Atualizado: 20/05/2025 15:12:54
+[15:13:48] Horário completo extraído: 20/05/2025 15:12:54
+[15:13:48] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:13:48] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:13:48] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:13:48] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:13:48] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:13:48] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:13:48] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:13:58] Consultando status às 15:13:58...
+[15:14:04] Recebidos 28164 caracteres HTML.
+[15:14:04] Texto do nó de atualização: Atualizado: 20/05/2025 15:14:01
+[15:14:04] Horário completo extraído: 20/05/2025 15:14:01
+[15:14:04] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:14:04] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:14:04] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:14:04] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:14:04] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:14:04] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:14:04] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:14:14] Consultando status às 15:14:14...
+[15:14:14] Recebidos 28164 caracteres HTML.
+[15:14:14] Texto do nó de atualização: Atualizado: 20/05/2025 15:14:01
+[15:14:14] Horário completo extraído: 20/05/2025 15:14:01
+[15:14:14] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:14:14] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:14:14] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:14:14] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:14:14] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:14:14] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:14:14] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:14:24] Consultando status às 15:14:24...
+[15:14:24] Recebidos 28164 caracteres HTML.
+[15:14:24] Texto do nó de atualização: Atualizado: 20/05/2025 15:14:01
+[15:14:24] Horário completo extraído: 20/05/2025 15:14:01
+[15:14:24] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:14:24] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:14:24] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:14:24] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:14:24] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:14:24] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:14:24] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:14:34] Consultando status às 15:14:34...
+[15:14:34] Recebidos 28164 caracteres HTML.
+[15:14:34] Texto do nó de atualização: Atualizado: 20/05/2025 15:14:01
+[15:14:34] Horário completo extraído: 20/05/2025 15:14:01
+[15:14:34] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:14:34] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:14:34] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:14:34] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:14:34] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:14:34] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:14:34] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:14:45] Consultando status às 15:14:45...
+[15:14:45] Recebidos 28164 caracteres HTML.
+[15:14:45] Texto do nó de atualização: Atualizado: 20/05/2025 15:14:01
+[15:14:45] Horário completo extraído: 20/05/2025 15:14:01
+[15:14:45] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:14:45] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:14:45] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:14:45] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:14:45] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:14:45] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:14:45] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:14:55] Consultando status às 15:14:55...
+[15:14:55] Recebidos 28164 caracteres HTML.
+[15:14:55] Texto do nó de atualização: Atualizado: 20/05/2025 15:14:01
+[15:14:55] Horário completo extraído: 20/05/2025 15:14:01
+[15:14:55] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:14:55] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:14:55] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:14:55] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:14:55] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:14:55] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:14:55] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:15:05] Consultando status às 15:15:05...
+[15:15:10] Recebidos 28164 caracteres HTML.
+[15:15:10] Texto do nó de atualização: Atualizado: 20/05/2025 15:15:07
+[15:15:10] Horário completo extraído: 20/05/2025 15:15:07
+[15:15:10] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:15:10] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:15:10] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:15:10] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:15:10] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:15:10] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:15:10] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:15:20] Consultando status às 15:15:20...
+[15:15:20] Recebidos 28164 caracteres HTML.
+[15:15:20] Texto do nó de atualização: Atualizado: 20/05/2025 15:15:07
+[15:15:20] Horário completo extraído: 20/05/2025 15:15:07
+[15:15:20] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:15:20] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:15:20] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:15:20] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:15:20] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:15:20] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:15:20] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:15:30] Consultando status às 15:15:30...
+[15:15:30] Recebidos 28164 caracteres HTML.
+[15:15:30] Texto do nó de atualização: Atualizado: 20/05/2025 15:15:07
+[15:15:30] Horário completo extraído: 20/05/2025 15:15:07
+[15:15:30] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:15:30] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:15:30] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:15:30] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:15:30] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:15:30] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:15:30] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:15:40] Consultando status às 15:15:40...
+[15:15:40] Recebidos 28164 caracteres HTML.
+[15:15:40] Texto do nó de atualização: Atualizado: 20/05/2025 15:15:07
+[15:15:40] Horário completo extraído: 20/05/2025 15:15:07
+[15:15:40] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:15:40] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:15:40] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:15:40] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:15:40] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:15:40] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:15:40] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:15:50] Consultando status às 15:15:50...
+[15:15:51] Recebidos 28164 caracteres HTML.
+[15:15:51] Texto do nó de atualização: Atualizado: 20/05/2025 15:15:07
+[15:15:51] Horário completo extraído: 20/05/2025 15:15:07
+[15:15:51] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:15:51] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:15:51] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:15:51] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:15:51] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:15:51] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:15:51] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:16:01] Consultando status às 15:16:01...
+[15:16:01] Recebidos 28164 caracteres HTML.
+[15:16:01] Texto do nó de atualização: Atualizado: 20/05/2025 15:15:07
+[15:16:01] Horário completo extraído: 20/05/2025 15:15:07
+[15:16:01] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:16:01] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:16:01] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:16:01] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:16:01] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:16:01] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:16:01] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:16:11] Consultando status às 15:16:11...
+[15:16:11] Recebidos 28164 caracteres HTML.
+[15:16:11] Texto do nó de atualização: Atualizado: 20/05/2025 15:15:07
+[15:16:11] Horário completo extraído: 20/05/2025 15:15:07
+[15:16:11] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:16:11] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:16:11] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:16:11] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:16:11] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:16:11] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:16:11] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:16:21] Consultando status às 15:16:21...
+[15:16:21] Recebidos 28164 caracteres HTML.
+[15:16:21] Texto do nó de atualização: Atualizado: 20/05/2025 15:15:07
+[15:16:21] Horário completo extraído: 20/05/2025 15:15:07
+[15:16:21] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:16:21] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:16:21] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:16:21] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:16:21] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:16:21] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:16:21] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:16:31] Consultando status às 15:16:31...
+[15:16:31] Recebidos 28164 caracteres HTML.
+[15:16:31] Texto do nó de atualização: Atualizado: 20/05/2025 15:15:07
+[15:16:31] Horário completo extraído: 20/05/2025 15:15:07
+[15:16:31] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:16:31] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:16:31] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:16:31] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:16:31] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:16:31] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:16:31] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:16:41] Consultando status às 15:16:41...
+[15:16:41] Recebidos 28164 caracteres HTML.
+[15:16:41] Texto do nó de atualização: Atualizado: 20/05/2025 15:15:07
+[15:16:41] Horário completo extraído: 20/05/2025 15:15:07
+[15:16:41] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:16:41] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:16:41] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:16:41] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:16:41] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:16:41] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:16:41] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:16:51] Consultando status às 15:16:51...
+[15:16:51] Recebidos 28164 caracteres HTML.
+[15:16:51] Texto do nó de atualização: Atualizado: 20/05/2025 15:15:07
+[15:16:51] Horário completo extraído: 20/05/2025 15:15:07
+[15:16:51] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:16:51] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:16:51] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:16:51] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:16:51] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:16:51] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:16:51] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:17:01] Consultando status às 15:17:01...
+[15:17:08] Recebidos 28164 caracteres HTML.
+[15:17:08] Texto do nó de atualização: Atualizado: 20/05/2025 15:17:05
+[15:17:08] Horário completo extraído: 20/05/2025 15:17:05
+[15:17:08] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:17:08] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:17:08] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:17:08] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:17:08] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:17:08] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:17:08] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:17:18] Consultando status às 15:17:18...
+[15:17:18] Recebidos 28164 caracteres HTML.
+[15:17:18] Texto do nó de atualização: Atualizado: 20/05/2025 15:17:05
+[15:17:18] Horário completo extraído: 20/05/2025 15:17:05
+[15:17:18] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:17:18] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:17:18] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:17:18] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:17:18] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:17:18] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:17:18] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:17:28] Consultando status às 15:17:28...
+[15:17:28] Recebidos 28164 caracteres HTML.
+[15:17:28] Texto do nó de atualização: Atualizado: 20/05/2025 15:17:05
+[15:17:28] Horário completo extraído: 20/05/2025 15:17:05
+[15:17:28] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:17:28] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:17:28] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:17:28] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:17:28] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:17:28] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:17:28] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:17:38] Consultando status às 15:17:38...
+[15:17:38] Recebidos 28164 caracteres HTML.
+[15:17:38] Texto do nó de atualização: Atualizado: 20/05/2025 15:17:05
+[15:17:38] Horário completo extraído: 20/05/2025 15:17:05
+[15:17:38] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:17:38] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:17:38] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:17:38] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:17:38] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:17:38] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:17:38] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:17:48] Consultando status às 15:17:48...
+[15:17:48] Recebidos 28164 caracteres HTML.
+[15:17:48] Texto do nó de atualização: Atualizado: 20/05/2025 15:17:05
+[15:17:48] Horário completo extraído: 20/05/2025 15:17:05
+[15:17:48] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:17:48] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:17:48] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:17:48] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:17:48] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:17:48] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:17:48] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:17:58] Consultando status às 15:17:58...
+[15:17:58] Recebidos 28164 caracteres HTML.
+[15:17:58] Texto do nó de atualização: Atualizado: 20/05/2025 15:17:05
+[15:17:58] Horário completo extraído: 20/05/2025 15:17:05
+[15:17:58] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:17:58] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:17:58] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:17:58] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:17:58] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:17:58] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:17:58] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:18:08] Consultando status às 15:18:08...
+[15:18:14] Recebidos 28164 caracteres HTML.
+[15:18:14] Texto do nó de atualização: Atualizado: 20/05/2025 15:18:11
+[15:18:14] Horário completo extraído: 20/05/2025 15:18:11
+[15:18:14] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:18:14] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:18:14] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:18:14] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:18:14] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:18:14] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:18:14] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:18:24] Consultando status às 15:18:24...
+[15:18:24] Recebidos 28164 caracteres HTML.
+[15:18:24] Texto do nó de atualização: Atualizado: 20/05/2025 15:18:11
+[15:18:24] Horário completo extraído: 20/05/2025 15:18:11
+[15:18:24] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:18:24] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:18:24] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:18:24] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:18:24] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:18:24] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:18:24] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:18:34] Consultando status às 15:18:34...
+[15:18:34] Recebidos 28164 caracteres HTML.
+[15:18:34] Texto do nó de atualização: Atualizado: 20/05/2025 15:18:11
+[15:18:34] Horário completo extraído: 20/05/2025 15:18:11
+[15:18:34] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:18:34] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:18:34] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:18:34] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:18:34] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:18:34] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:18:34] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:18:44] Consultando status às 15:18:44...
+[15:18:44] Recebidos 28164 caracteres HTML.
+[15:18:44] Texto do nó de atualização: Atualizado: 20/05/2025 15:18:11
+[15:18:44] Horário completo extraído: 20/05/2025 15:18:11
+[15:18:44] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:18:44] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:18:44] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:18:44] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:18:44] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:18:44] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:18:44] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:18:54] Consultando status às 15:18:54...
+[15:18:54] Recebidos 28164 caracteres HTML.
+[15:18:54] Texto do nó de atualização: Atualizado: 20/05/2025 15:18:11
+[15:18:54] Horário completo extraído: 20/05/2025 15:18:11
+[15:18:54] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:18:54] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:18:54] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:18:54] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:18:54] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:18:54] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:18:54] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:19:04] Consultando status às 15:19:04...
+[15:19:04] Recebidos 28164 caracteres HTML.
+[15:19:04] Texto do nó de atualização: Atualizado: 20/05/2025 15:18:11
+[15:19:04] Horário completo extraído: 20/05/2025 15:18:11
+[15:19:04] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:19:04] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:19:04] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:19:04] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:19:04] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:19:04] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:19:04] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:19:14] Consultando status às 15:19:14...
+[15:19:20] Recebidos 28164 caracteres HTML.
+[15:19:20] Texto do nó de atualização: Atualizado: 20/05/2025 15:19:16
+[15:19:20] Horário completo extraído: 20/05/2025 15:19:16
+[15:19:20] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:19:20] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:19:20] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:19:20] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:19:20] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:19:20] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:19:20] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:19:30] Consultando status às 15:19:30...
+[15:19:30] Recebidos 28164 caracteres HTML.
+[15:19:30] Texto do nó de atualização: Atualizado: 20/05/2025 15:19:16
+[15:19:30] Horário completo extraído: 20/05/2025 15:19:16
+[15:19:30] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:19:30] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:19:30] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:19:30] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:19:30] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:19:30] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:19:30] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:19:40] Consultando status às 15:19:40...
+[15:19:40] Recebidos 28164 caracteres HTML.
+[15:19:40] Texto do nó de atualização: Atualizado: 20/05/2025 15:19:16
+[15:19:40] Horário completo extraído: 20/05/2025 15:19:16
+[15:19:40] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:19:40] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:19:40] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:19:40] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:19:40] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:19:40] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:19:40] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:19:50] Consultando status às 15:19:50...
+[15:19:50] Recebidos 28164 caracteres HTML.
+[15:19:50] Texto do nó de atualização: Atualizado: 20/05/2025 15:19:16
+[15:19:50] Horário completo extraído: 20/05/2025 15:19:16
+[15:19:50] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:19:50] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:19:50] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:19:50] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:19:50] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:19:50] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:19:50] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:20:00] Consultando status às 15:20:00...
+[15:20:00] Recebidos 28164 caracteres HTML.
+[15:20:00] Texto do nó de atualização: Atualizado: 20/05/2025 15:19:16
+[15:20:00] Horário completo extraído: 20/05/2025 15:19:16
+[15:20:00] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:20:00] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:20:00] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:20:00] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:20:00] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:20:00] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:20:00] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:20:10] Consultando status às 15:20:10...
+[15:20:10] Recebidos 28164 caracteres HTML.
+[15:20:10] Texto do nó de atualização: Atualizado: 20/05/2025 15:19:16
+[15:20:10] Horário completo extraído: 20/05/2025 15:19:16
+[15:20:10] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:20:10] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:20:10] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:20:10] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:20:10] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:20:10] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:20:10] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:20:20] Consultando status às 15:20:20...
+[15:20:26] Recebidos 28164 caracteres HTML.
+[15:20:26] Texto do nó de atualização: Atualizado: 20/05/2025 15:20:23
+[15:20:26] Horário completo extraído: 20/05/2025 15:20:23
+[15:20:26] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:20:26] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:20:26] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:20:26] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:20:26] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:20:26] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:20:26] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:20:36] Consultando status às 15:20:36...
+[15:20:36] Recebidos 28164 caracteres HTML.
+[15:20:36] Texto do nó de atualização: Atualizado: 20/05/2025 15:20:23
+[15:20:36] Horário completo extraído: 20/05/2025 15:20:23
+[15:20:36] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:20:36] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:20:36] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:20:36] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:20:36] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:20:36] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:20:36] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:20:46] Consultando status às 15:20:46...
+[15:20:46] Recebidos 28164 caracteres HTML.
+[15:20:46] Texto do nó de atualização: Atualizado: 20/05/2025 15:20:23
+[15:20:46] Horário completo extraído: 20/05/2025 15:20:23
+[15:20:46] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:20:46] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:20:46] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:20:46] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:20:46] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:20:46] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:20:46] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:20:56] Consultando status às 15:20:56...
+[15:20:56] Recebidos 28164 caracteres HTML.
+[15:20:56] Texto do nó de atualização: Atualizado: 20/05/2025 15:20:23
+[15:20:56] Horário completo extraído: 20/05/2025 15:20:23
+[15:20:56] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:20:56] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:20:56] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:20:56] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:20:56] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:20:56] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:20:56] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:21:06] Consultando status às 15:21:06...
+[15:21:06] Recebidos 28164 caracteres HTML.
+[15:21:06] Texto do nó de atualização: Atualizado: 20/05/2025 15:20:23
+[15:21:06] Horário completo extraído: 20/05/2025 15:20:23
+[15:21:06] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:21:06] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:21:06] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:21:06] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:21:06] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:21:06] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:21:06] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:21:16] Consultando status às 15:21:16...
+[15:21:16] Recebidos 28164 caracteres HTML.
+[15:21:16] Texto do nó de atualização: Atualizado: 20/05/2025 15:20:23
+[15:21:16] Horário completo extraído: 20/05/2025 15:20:23
+[15:21:16] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:21:16] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:21:16] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:21:16] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:21:16] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:21:16] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:21:16] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:21:26] Consultando status às 15:21:26...
+[15:21:31] Recebidos 28164 caracteres HTML.
+[15:21:31] Texto do nó de atualização: Atualizado: 20/05/2025 15:21:28
+[15:21:31] Horário completo extraído: 20/05/2025 15:21:28
+[15:21:31] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:21:31] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:21:31] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:21:31] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:21:31] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:21:31] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:21:31] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:21:41] Consultando status às 15:21:41...
+[15:21:41] Recebidos 28164 caracteres HTML.
+[15:21:41] Texto do nó de atualização: Atualizado: 20/05/2025 15:21:28
+[15:21:41] Horário completo extraído: 20/05/2025 15:21:28
+[15:21:41] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:21:41] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:21:41] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:21:41] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:21:41] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:21:41] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:21:41] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:21:51] Consultando status às 15:21:51...
+[15:21:51] Recebidos 28164 caracteres HTML.
+[15:21:51] Texto do nó de atualização: Atualizado: 20/05/2025 15:21:28
+[15:21:51] Horário completo extraído: 20/05/2025 15:21:28
+[15:21:51] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:21:51] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:21:51] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:21:51] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:21:51] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:21:51] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:21:51] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:22:01] Consultando status às 15:22:01...
+[15:22:01] Recebidos 28164 caracteres HTML.
+[15:22:01] Texto do nó de atualização: Atualizado: 20/05/2025 15:21:28
+[15:22:01] Horário completo extraído: 20/05/2025 15:21:28
+[15:22:01] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:22:01] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:22:01] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:22:01] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:22:01] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:22:01] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:22:01] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:22:11] Consultando status às 15:22:11...
+[15:22:11] Recebidos 28164 caracteres HTML.
+[15:22:11] Texto do nó de atualização: Atualizado: 20/05/2025 15:21:28
+[15:22:11] Horário completo extraído: 20/05/2025 15:21:28
+[15:22:11] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:22:11] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:22:11] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:22:11] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:22:11] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:22:11] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:22:11] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:22:21] Consultando status às 15:22:21...
+[15:22:22] Recebidos 28164 caracteres HTML.
+[15:22:22] Texto do nó de atualização: Atualizado: 20/05/2025 15:21:28
+[15:22:22] Horário completo extraído: 20/05/2025 15:21:28
+[15:22:22] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:22:22] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:22:22] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:22:22] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:22:22] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:22:22] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:22:22] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:22:32] Consultando status às 15:22:32...
+[15:22:38] Recebidos 28164 caracteres HTML.
+[15:22:38] Texto do nó de atualização: Atualizado: 20/05/2025 15:22:35
+[15:22:38] Horário completo extraído: 20/05/2025 15:22:35
+[15:22:38] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:22:38] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:22:38] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:22:38] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:22:38] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:22:38] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:22:38] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:22:48] Consultando status às 15:22:48...
+[15:22:48] Recebidos 28164 caracteres HTML.
+[15:22:48] Texto do nó de atualização: Atualizado: 20/05/2025 15:22:35
+[15:22:48] Horário completo extraído: 20/05/2025 15:22:35
+[15:22:48] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:22:48] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:22:48] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:22:48] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:22:48] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:22:48] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:22:48] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:22:58] Consultando status às 15:22:58...
+[15:22:58] Recebidos 28164 caracteres HTML.
+[15:22:58] Texto do nó de atualização: Atualizado: 20/05/2025 15:22:35
+[15:22:58] Horário completo extraído: 20/05/2025 15:22:35
+[15:22:58] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:22:58] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:22:58] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:22:58] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:22:58] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:22:58] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:22:58] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:23:08] Consultando status às 15:23:08...
+[15:23:09] Recebidos 28164 caracteres HTML.
+[15:23:09] Texto do nó de atualização: Atualizado: 20/05/2025 15:22:35
+[15:23:09] Horário completo extraído: 20/05/2025 15:22:35
+[15:23:09] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:23:09] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:23:09] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:23:09] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:23:09] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:23:09] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:23:09] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:23:19] Consultando status às 15:23:19...
+[15:23:19] Recebidos 28164 caracteres HTML.
+[15:23:19] Texto do nó de atualização: Atualizado: 20/05/2025 15:22:35
+[15:23:19] Horário completo extraído: 20/05/2025 15:22:35
+[15:23:19] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:23:19] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:23:19] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:23:19] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:23:19] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:23:19] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:23:19] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:23:29] Consultando status às 15:23:29...
+[15:23:29] Recebidos 28164 caracteres HTML.
+[15:23:29] Texto do nó de atualização: Atualizado: 20/05/2025 15:22:35
+[15:23:29] Horário completo extraído: 20/05/2025 15:22:35
+[15:23:29] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:23:29] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:23:29] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:23:29] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:23:29] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:23:29] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:23:29] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:23:39] Consultando status às 15:23:39...
+[15:23:40] Recebidos 28164 caracteres HTML.
+[15:23:40] Texto do nó de atualização: Atualizado: 20/05/2025 15:22:35
+[15:23:40] Horário completo extraído: 20/05/2025 15:22:35
+[15:23:40] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:23:40] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:23:40] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:23:40] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:23:40] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:23:40] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:23:40] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:23:50] Consultando status às 15:23:50...
+[15:23:50] Recebidos 28164 caracteres HTML.
+[15:23:50] Texto do nó de atualização: Atualizado: 20/05/2025 15:22:35
+[15:23:50] Horário completo extraído: 20/05/2025 15:22:35
+[15:23:50] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:23:50] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:23:50] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:23:50] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:23:50] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:23:50] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:23:50] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:24:00] Consultando status às 15:24:00...
+[15:24:00] Recebidos 28164 caracteres HTML.
+[15:24:00] Texto do nó de atualização: Atualizado: 20/05/2025 15:22:35
+[15:24:00] Horário completo extraído: 20/05/2025 15:22:35
+[15:24:00] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:24:00] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:24:00] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:24:00] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:24:00] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:24:00] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:24:00] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:24:10] Consultando status às 15:24:10...
+[15:24:15] Recebidos 28164 caracteres HTML.
+[15:24:15] Texto do nó de atualização: Atualizado: 20/05/2025 15:24:12
+[15:24:15] Horário completo extraído: 20/05/2025 15:24:12
+[15:24:15] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:24:15] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:24:15] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:24:15] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:24:15] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:24:15] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:24:15] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:24:25] Consultando status às 15:24:25...
+[15:24:25] Recebidos 28164 caracteres HTML.
+[15:24:25] Texto do nó de atualização: Atualizado: 20/05/2025 15:24:12
+[15:24:25] Horário completo extraído: 20/05/2025 15:24:12
+[15:24:25] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:24:25] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:24:25] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:24:25] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:24:25] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:24:25] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:24:25] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:24:35] Consultando status às 15:24:35...
+[15:24:35] Recebidos 28164 caracteres HTML.
+[15:24:35] Texto do nó de atualização: Atualizado: 20/05/2025 15:24:12
+[15:24:35] Horário completo extraído: 20/05/2025 15:24:12
+[15:24:35] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:24:35] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:24:35] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:24:35] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:24:35] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:24:35] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:24:35] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:24:45] Consultando status às 15:24:45...
+[15:24:45] Recebidos 28164 caracteres HTML.
+[15:24:45] Texto do nó de atualização: Atualizado: 20/05/2025 15:24:12
+[15:24:45] Horário completo extraído: 20/05/2025 15:24:12
+[15:24:45] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:24:45] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:24:45] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:24:45] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:24:45] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:24:45] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:24:45] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:24:55] Consultando status às 15:24:55...
+[15:24:55] Recebidos 28164 caracteres HTML.
+[15:24:55] Texto do nó de atualização: Atualizado: 20/05/2025 15:24:12
+[15:24:55] Horário completo extraído: 20/05/2025 15:24:12
+[15:24:55] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:24:55] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:24:55] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:24:55] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:24:55] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:24:55] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:24:55] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:25:05] Consultando status às 15:25:05...
+[15:25:05] Recebidos 28164 caracteres HTML.
+[15:25:05] Texto do nó de atualização: Atualizado: 20/05/2025 15:24:12
+[15:25:05] Horário completo extraído: 20/05/2025 15:24:12
+[15:25:05] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:25:05] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:25:05] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:25:05] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:25:05] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:25:05] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:25:05] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:25:15] Consultando status às 15:25:15...
+[15:25:21] Recebidos 28164 caracteres HTML.
+[15:25:21] Texto do nó de atualização: Atualizado: 20/05/2025 15:25:18
+[15:25:21] Horário completo extraído: 20/05/2025 15:25:18
+[15:25:21] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:25:21] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:25:21] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:25:21] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:25:21] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:25:21] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:25:21] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:25:31] Consultando status às 15:25:31...
+[15:25:31] Recebidos 28164 caracteres HTML.
+[15:25:31] Texto do nó de atualização: Atualizado: 20/05/2025 15:25:18
+[15:25:31] Horário completo extraído: 20/05/2025 15:25:18
+[15:25:31] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:25:31] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:25:31] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:25:31] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:25:31] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:25:31] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:25:31] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:25:41] Consultando status às 15:25:41...
+[15:25:41] Recebidos 28164 caracteres HTML.
+[15:25:41] Texto do nó de atualização: Atualizado: 20/05/2025 15:25:18
+[15:25:41] Horário completo extraído: 20/05/2025 15:25:18
+[15:25:41] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:25:41] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:25:41] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:25:41] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:25:41] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:25:41] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:25:41] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:25:51] Consultando status às 15:25:51...
+[15:25:51] Recebidos 28164 caracteres HTML.
+[15:25:51] Texto do nó de atualização: Atualizado: 20/05/2025 15:25:18
+[15:25:51] Horário completo extraído: 20/05/2025 15:25:18
+[15:25:51] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:25:51] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:25:51] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:25:51] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:25:51] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:25:51] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:25:51] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:26:01] Consultando status às 15:26:01...
+[15:26:02] Recebidos 28164 caracteres HTML.
+[15:26:02] Texto do nó de atualização: Atualizado: 20/05/2025 15:25:18
+[15:26:02] Horário completo extraído: 20/05/2025 15:25:18
+[15:26:02] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:26:02] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:26:02] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:26:02] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:26:02] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:26:02] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:26:02] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:26:12] Consultando status às 15:26:12...
+[15:26:12] Recebidos 28164 caracteres HTML.
+[15:26:12] Texto do nó de atualização: Atualizado: 20/05/2025 15:25:18
+[15:26:12] Horário completo extraído: 20/05/2025 15:25:18
+[15:26:12] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:26:12] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:26:12] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:26:12] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:26:12] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:26:12] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:26:12] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:26:22] Consultando status às 15:26:22...
+[15:26:29] Recebidos 28164 caracteres HTML.
+[15:26:29] Texto do nó de atualização: Atualizado: 20/05/2025 15:26:25
+[15:26:29] Horário completo extraído: 20/05/2025 15:26:25
+[15:26:29] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:26:29] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:26:29] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:26:29] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:26:29] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:26:29] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:26:29] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:26:39] Consultando status às 15:26:39...
+[15:26:39] Recebidos 28164 caracteres HTML.
+[15:26:39] Texto do nó de atualização: Atualizado: 20/05/2025 15:26:25
+[15:26:39] Horário completo extraído: 20/05/2025 15:26:25
+[15:26:39] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:26:39] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:26:39] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:26:39] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:26:39] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:26:39] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:26:39] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:26:49] Consultando status às 15:26:49...
+[15:26:49] Recebidos 28164 caracteres HTML.
+[15:26:49] Texto do nó de atualização: Atualizado: 20/05/2025 15:26:25
+[15:26:49] Horário completo extraído: 20/05/2025 15:26:25
+[15:26:49] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:26:49] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:26:49] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:26:49] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:26:49] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:26:49] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:26:49] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:26:59] Consultando status às 15:26:59...
+[15:26:59] Recebidos 28164 caracteres HTML.
+[15:26:59] Texto do nó de atualização: Atualizado: 20/05/2025 15:26:25
+[15:26:59] Horário completo extraído: 20/05/2025 15:26:25
+[15:26:59] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:26:59] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:26:59] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:26:59] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:26:59] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:26:59] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:26:59] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:27:09] Consultando status às 15:27:09...
+[15:27:09] Recebidos 28164 caracteres HTML.
+[15:27:09] Texto do nó de atualização: Atualizado: 20/05/2025 15:26:25
+[15:27:09] Horário completo extraído: 20/05/2025 15:26:25
+[15:27:09] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:27:09] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:27:09] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:27:09] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:27:09] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:27:09] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:27:09] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:27:19] Consultando status às 15:27:19...
+[15:27:19] Recebidos 28164 caracteres HTML.
+[15:27:19] Texto do nó de atualização: Atualizado: 20/05/2025 15:26:25
+[15:27:19] Horário completo extraído: 20/05/2025 15:26:25
+[15:27:19] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:27:19] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:27:19] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:27:19] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:27:19] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:27:19] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:27:19] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:27:29] Consultando status às 15:27:29...
+[15:27:30] Recebidos 28164 caracteres HTML.
+[15:27:30] Texto do nó de atualização: Atualizado: 20/05/2025 15:26:25
+[15:27:30] Horário completo extraído: 20/05/2025 15:26:25
+[15:27:30] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:27:30] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:27:30] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:27:30] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:27:30] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:27:30] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:27:30] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:27:40] Consultando status às 15:27:40...
+[15:27:40] Recebidos 28164 caracteres HTML.
+[15:27:40] Texto do nó de atualização: Atualizado: 20/05/2025 15:26:25
+[15:27:40] Horário completo extraído: 20/05/2025 15:26:25
+[15:27:40] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:27:40] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:27:40] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:27:40] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:27:40] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:27:40] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:27:40] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:27:50] Consultando status às 15:27:50...
+[15:27:50] Recebidos 28164 caracteres HTML.
+[15:27:50] Texto do nó de atualização: Atualizado: 20/05/2025 15:26:25
+[15:27:50] Horário completo extraído: 20/05/2025 15:26:25
+[15:27:50] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:27:50] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:27:50] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:27:50] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:27:50] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:27:50] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:27:50] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:28:00] Consultando status às 15:28:00...
+[15:28:00] Recebidos 28164 caracteres HTML.
+[15:28:00] Texto do nó de atualização: Atualizado: 20/05/2025 15:26:25
+[15:28:00] Horário completo extraído: 20/05/2025 15:26:25
+[15:28:00] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:28:00] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:28:00] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:28:00] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:28:00] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:28:00] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:28:00] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:28:10] Consultando status às 15:28:10...
+[15:28:10] Recebidos 28164 caracteres HTML.
+[15:28:10] Texto do nó de atualização: Atualizado: 20/05/2025 15:26:25
+[15:28:10] Horário completo extraído: 20/05/2025 15:26:25
+[15:28:10] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:28:10] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:28:10] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:28:10] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:28:10] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:28:10] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:28:10] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:28:20] Consultando status às 15:28:20...
+[15:28:26] Recebidos 28164 caracteres HTML.
+[15:28:26] Texto do nó de atualização: Atualizado: 20/05/2025 15:28:23
+[15:28:26] Horário completo extraído: 20/05/2025 15:28:23
+[15:28:26] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:28:26] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:28:26] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:28:26] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:28:26] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:28:26] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:28:26] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:28:36] Consultando status às 15:28:36...
+[15:28:36] Recebidos 28164 caracteres HTML.
+[15:28:36] Texto do nó de atualização: Atualizado: 20/05/2025 15:28:23
+[15:28:36] Horário completo extraído: 20/05/2025 15:28:23
+[15:28:36] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:28:36] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:28:36] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:28:36] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:28:36] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:28:36] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:28:36] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:28:46] Consultando status às 15:28:46...
+[15:28:46] Recebidos 28164 caracteres HTML.
+[15:28:46] Texto do nó de atualização: Atualizado: 20/05/2025 15:28:23
+[15:28:46] Horário completo extraído: 20/05/2025 15:28:23
+[15:28:46] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:28:46] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:28:46] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:28:46] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:28:46] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:28:46] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:28:46] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:28:56] Consultando status às 15:28:56...
+[15:28:56] Recebidos 28164 caracteres HTML.
+[15:28:56] Texto do nó de atualização: Atualizado: 20/05/2025 15:28:23
+[15:28:56] Horário completo extraído: 20/05/2025 15:28:23
+[15:28:56] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:28:56] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:28:56] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:28:56] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:28:56] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:28:56] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:28:56] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:29:06] Consultando status às 15:29:06...
+[15:29:06] Recebidos 28164 caracteres HTML.
+[15:29:06] Texto do nó de atualização: Atualizado: 20/05/2025 15:28:23
+[15:29:06] Horário completo extraído: 20/05/2025 15:28:23
+[15:29:06] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:29:06] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:29:06] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:29:06] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:29:06] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:29:06] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:29:06] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:29:16] Consultando status às 15:29:16...
+[15:29:16] Recebidos 28164 caracteres HTML.
+[15:29:16] Texto do nó de atualização: Atualizado: 20/05/2025 15:28:23
+[15:29:16] Horário completo extraído: 20/05/2025 15:28:23
+[15:29:16] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:29:16] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:29:16] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:29:16] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:29:16] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:29:16] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:29:16] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:29:26] Consultando status às 15:29:26...
+[15:29:32] Recebidos 28164 caracteres HTML.
+[15:29:32] Texto do nó de atualização: Atualizado: 20/05/2025 15:29:29
+[15:29:32] Horário completo extraído: 20/05/2025 15:29:29
+[15:29:32] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:29:32] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:29:32] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:29:32] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:29:32] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:29:32] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:29:32] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:29:42] Consultando status às 15:29:42...
+[15:29:42] Recebidos 28164 caracteres HTML.
+[15:29:42] Texto do nó de atualização: Atualizado: 20/05/2025 15:29:29
+[15:29:42] Horário completo extraído: 20/05/2025 15:29:29
+[15:29:42] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:29:42] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:29:42] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:29:42] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:29:42] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:29:42] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:29:42] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:29:52] Consultando status às 15:29:52...
+[15:29:52] Recebidos 28164 caracteres HTML.
+[15:29:52] Texto do nó de atualização: Atualizado: 20/05/2025 15:29:29
+[15:29:52] Horário completo extraído: 20/05/2025 15:29:29
+[15:29:52] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:29:52] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:29:52] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:29:52] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:29:52] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:29:52] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:29:52] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:30:02] Consultando status às 15:30:02...
+[15:30:02] Recebidos 28164 caracteres HTML.
+[15:30:02] Texto do nó de atualização: Atualizado: 20/05/2025 15:29:29
+[15:30:02] Horário completo extraído: 20/05/2025 15:29:29
+[15:30:02] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:30:02] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:30:02] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:30:02] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:30:02] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:30:02] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:30:02] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:30:12] Consultando status às 15:30:12...
+[15:30:13] Recebidos 28164 caracteres HTML.
+[15:30:13] Texto do nó de atualização: Atualizado: 20/05/2025 15:29:29
+[15:30:13] Horário completo extraído: 20/05/2025 15:29:29
+[15:30:13] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:30:13] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:30:13] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:30:13] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:30:13] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:30:13] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:30:13] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:30:23] Consultando status às 15:30:23...
+[15:30:23] Recebidos 28164 caracteres HTML.
+[15:30:23] Texto do nó de atualização: Atualizado: 20/05/2025 15:29:29
+[15:30:23] Horário completo extraído: 20/05/2025 15:29:29
+[15:30:23] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:30:23] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:30:23] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:30:23] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:30:23] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:30:23] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:30:23] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:30:33] Consultando status às 15:30:33...
+[15:30:39] Recebidos 28164 caracteres HTML.
+[15:30:39] Texto do nó de atualização: Atualizado: 20/05/2025 15:30:36
+[15:30:39] Horário completo extraído: 20/05/2025 15:30:36
+[15:30:39] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:30:39] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:30:39] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:30:39] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:30:39] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:30:39] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:30:39] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:30:49] Consultando status às 15:30:49...
+[15:30:49] Recebidos 28164 caracteres HTML.
+[15:30:49] Texto do nó de atualização: Atualizado: 20/05/2025 15:30:36
+[15:30:49] Horário completo extraído: 20/05/2025 15:30:36
+[15:30:49] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:30:49] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:30:49] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:30:49] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:30:49] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:30:49] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:30:49] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:30:59] Consultando status às 15:30:59...
+[15:30:59] Recebidos 28164 caracteres HTML.
+[15:30:59] Texto do nó de atualização: Atualizado: 20/05/2025 15:30:36
+[15:30:59] Horário completo extraído: 20/05/2025 15:30:36
+[15:30:59] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:30:59] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:30:59] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:30:59] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:30:59] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:30:59] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:30:59] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:31:09] Consultando status às 15:31:09...
+[15:31:09] Recebidos 28164 caracteres HTML.
+[15:31:09] Texto do nó de atualização: Atualizado: 20/05/2025 15:30:36
+[15:31:09] Horário completo extraído: 20/05/2025 15:30:36
+[15:31:09] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:31:09] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:31:09] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:31:09] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:31:09] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:31:09] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:31:09] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:31:19] Consultando status às 15:31:19...
+[15:31:19] Recebidos 28164 caracteres HTML.
+[15:31:19] Texto do nó de atualização: Atualizado: 20/05/2025 15:30:36
+[15:31:19] Horário completo extraído: 20/05/2025 15:30:36
+[15:31:19] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:31:19] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:31:19] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:31:19] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:31:19] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:31:19] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:31:19] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:31:29] Consultando status às 15:31:29...
+[15:31:29] Recebidos 28164 caracteres HTML.
+[15:31:29] Texto do nó de atualização: Atualizado: 20/05/2025 15:30:36
+[15:31:29] Horário completo extraído: 20/05/2025 15:30:36
+[15:31:29] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:31:29] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:31:29] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:31:29] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:31:29] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:31:29] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:31:29] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:31:39] Consultando status às 15:31:39...
+[15:31:45] Recebidos 28164 caracteres HTML.
+[15:31:45] Texto do nó de atualização: Atualizado: 20/05/2025 15:31:42
+[15:31:45] Horário completo extraído: 20/05/2025 15:31:42
+[15:31:45] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:31:45] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:31:45] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:31:45] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:31:45] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:31:45] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:31:45] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:31:55] Consultando status às 15:31:55...
+[15:31:55] Recebidos 28164 caracteres HTML.
+[15:31:55] Texto do nó de atualização: Atualizado: 20/05/2025 15:31:42
+[15:31:55] Horário completo extraído: 20/05/2025 15:31:42
+[15:31:55] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:31:55] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:31:55] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:31:55] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:31:55] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:31:55] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:31:55] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:32:05] Consultando status às 15:32:05...
+[15:32:05] Recebidos 28164 caracteres HTML.
+[15:32:05] Texto do nó de atualização: Atualizado: 20/05/2025 15:31:42
+[15:32:05] Horário completo extraído: 20/05/2025 15:31:42
+[15:32:05] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:32:05] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:32:05] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:32:05] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:32:05] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:32:05] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:32:05] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:32:15] Consultando status às 15:32:15...
+[15:32:15] Recebidos 28164 caracteres HTML.
+[15:32:15] Texto do nó de atualização: Atualizado: 20/05/2025 15:31:42
+[15:32:15] Horário completo extraído: 20/05/2025 15:31:42
+[15:32:15] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:32:15] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:32:15] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:32:15] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:32:15] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:32:15] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:32:15] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:32:25] Consultando status às 15:32:25...
+[15:32:25] Recebidos 28164 caracteres HTML.
+[15:32:25] Texto do nó de atualização: Atualizado: 20/05/2025 15:31:42
+[15:32:25] Horário completo extraído: 20/05/2025 15:31:42
+[15:32:25] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:32:25] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:32:25] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:32:25] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:32:25] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:32:25] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:32:25] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:32:35] Consultando status às 15:32:35...
+[15:32:36] Recebidos 28164 caracteres HTML.
+[15:32:36] Texto do nó de atualização: Atualizado: 20/05/2025 15:31:42
+[15:32:36] Horário completo extraído: 20/05/2025 15:31:42
+[15:32:36] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:32:36] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:32:36] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:32:36] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:32:36] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:32:36] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:32:36] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:32:46] Consultando status às 15:32:46...
+[15:32:51] Recebidos 28164 caracteres HTML.
+[15:32:51] Texto do nó de atualização: Atualizado: 20/05/2025 15:32:48
+[15:32:51] Horário completo extraído: 20/05/2025 15:32:48
+[15:32:51] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:32:51] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:32:51] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:32:51] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:32:51] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:32:51] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:32:51] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:33:01] Consultando status às 15:33:01...
+[15:33:01] Recebidos 28164 caracteres HTML.
+[15:33:01] Texto do nó de atualização: Atualizado: 20/05/2025 15:32:48
+[15:33:01] Horário completo extraído: 20/05/2025 15:32:48
+[15:33:01] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:33:01] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:33:01] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:33:01] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:33:01] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:33:01] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:33:01] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:33:11] Consultando status às 15:33:11...
+[15:33:11] Recebidos 28164 caracteres HTML.
+[15:33:11] Texto do nó de atualização: Atualizado: 20/05/2025 15:32:48
+[15:33:11] Horário completo extraído: 20/05/2025 15:32:48
+[15:33:11] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:33:11] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:33:11] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:33:11] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:33:11] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:33:11] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:33:11] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:33:21] Consultando status às 15:33:21...
+[15:33:21] Recebidos 28164 caracteres HTML.
+[15:33:21] Texto do nó de atualização: Atualizado: 20/05/2025 15:32:48
+[15:33:21] Horário completo extraído: 20/05/2025 15:32:48
+[15:33:21] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:33:21] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:33:21] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:33:21] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:33:21] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:33:21] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:33:21] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:33:31] Consultando status às 15:33:31...
+[15:33:32] Recebidos 28164 caracteres HTML.
+[15:33:32] Texto do nó de atualização: Atualizado: 20/05/2025 15:32:48
+[15:33:32] Horário completo extraído: 20/05/2025 15:32:48
+[15:33:32] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:33:32] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:33:32] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:33:32] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:33:32] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:33:32] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:33:32] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:33:42] Consultando status às 15:33:42...
+[15:33:42] Recebidos 28164 caracteres HTML.
+[15:33:42] Texto do nó de atualização: Atualizado: 20/05/2025 15:32:48
+[15:33:42] Horário completo extraído: 20/05/2025 15:32:48
+[15:33:42] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:33:42] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:33:42] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:33:42] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:33:42] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:33:42] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:33:42] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:33:52] Consultando status às 15:33:52...
+[15:33:58] Recebidos 28164 caracteres HTML.
+[15:33:58] Texto do nó de atualização: Atualizado: 20/05/2025 15:33:55
+[15:33:58] Horário completo extraído: 20/05/2025 15:33:55
+[15:33:58] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:33:58] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:33:58] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:33:58] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:33:58] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:33:58] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:33:58] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:34:08] Consultando status às 15:34:08...
+[15:34:08] Recebidos 28164 caracteres HTML.
+[15:34:08] Texto do nó de atualização: Atualizado: 20/05/2025 15:33:55
+[15:34:08] Horário completo extraído: 20/05/2025 15:33:55
+[15:34:08] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:34:08] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:34:08] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:34:08] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:34:08] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:34:08] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:34:08] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:34:18] Consultando status às 15:34:18...
+[15:34:18] Recebidos 28164 caracteres HTML.
+[15:34:18] Texto do nó de atualização: Atualizado: 20/05/2025 15:33:55
+[15:34:18] Horário completo extraído: 20/05/2025 15:33:55
+[15:34:18] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:34:18] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:34:18] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:34:18] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:34:18] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:34:18] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:34:18] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:34:28] Consultando status às 15:34:28...
+[15:34:28] Recebidos 28164 caracteres HTML.
+[15:34:28] Texto do nó de atualização: Atualizado: 20/05/2025 15:33:55
+[15:34:28] Horário completo extraído: 20/05/2025 15:33:55
+[15:34:28] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:34:28] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:34:28] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:34:28] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:34:28] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:34:28] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:34:28] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:34:38] Consultando status às 15:34:38...
+[15:34:39] Recebidos 28164 caracteres HTML.
+[15:34:39] Texto do nó de atualização: Atualizado: 20/05/2025 15:33:55
+[15:34:39] Horário completo extraído: 20/05/2025 15:33:55
+[15:34:39] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:34:39] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:34:39] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:34:39] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:34:39] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:34:39] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:34:39] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:34:49] Consultando status às 15:34:49...
+[15:34:49] Recebidos 28164 caracteres HTML.
+[15:34:49] Texto do nó de atualização: Atualizado: 20/05/2025 15:33:55
+[15:34:49] Horário completo extraído: 20/05/2025 15:33:55
+[15:34:49] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:34:49] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:34:49] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:34:49] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:34:49] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:34:49] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:34:49] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:34:59] Consultando status às 15:34:59...
+[15:35:05] Recebidos 28164 caracteres HTML.
+[15:35:05] Texto do nó de atualização: Atualizado: 20/05/2025 15:35:01
+[15:35:05] Horário completo extraído: 20/05/2025 15:35:01
+[15:35:05] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:35:05] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:35:05] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:35:05] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:35:05] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:35:05] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:35:05] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:35:15] Consultando status às 15:35:15...
+[15:35:15] Recebidos 28164 caracteres HTML.
+[15:35:15] Texto do nó de atualização: Atualizado: 20/05/2025 15:35:01
+[15:35:15] Horário completo extraído: 20/05/2025 15:35:01
+[15:35:15] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:35:15] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:35:15] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:35:15] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:35:15] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:35:15] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:35:15] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:35:25] Consultando status às 15:35:25...
+[15:35:25] Recebidos 28164 caracteres HTML.
+[15:35:25] Texto do nó de atualização: Atualizado: 20/05/2025 15:35:01
+[15:35:25] Horário completo extraído: 20/05/2025 15:35:01
+[15:35:25] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:35:25] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:35:25] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:35:25] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:35:25] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:35:25] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:35:25] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:35:35] Consultando status às 15:35:35...
+[15:35:35] Recebidos 28164 caracteres HTML.
+[15:35:35] Texto do nó de atualização: Atualizado: 20/05/2025 15:35:01
+[15:35:35] Horário completo extraído: 20/05/2025 15:35:01
+[15:35:35] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:35:35] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:35:35] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:35:35] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:35:35] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:35:35] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:35:35] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:35:45] Consultando status às 15:35:45...
+[15:35:45] Recebidos 28164 caracteres HTML.
+[15:35:45] Texto do nó de atualização: Atualizado: 20/05/2025 15:35:01
+[15:35:45] Horário completo extraído: 20/05/2025 15:35:01
+[15:35:45] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:35:45] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:35:45] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:35:45] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:35:45] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:35:45] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:35:45] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:35:55] Consultando status às 15:35:55...
+[15:35:56] Recebidos 28164 caracteres HTML.
+[15:35:56] Texto do nó de atualização: Atualizado: 20/05/2025 15:35:01
+[15:35:56] Horário completo extraído: 20/05/2025 15:35:01
+[15:35:56] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:35:56] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:35:56] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:35:56] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:35:56] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:35:56] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:35:56] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:36:06] Consultando status às 15:36:06...
+[15:36:06] Recebidos 28164 caracteres HTML.
+[15:36:06] Texto do nó de atualização: Atualizado: 20/05/2025 15:35:01
+[15:36:06] Horário completo extraído: 20/05/2025 15:35:01
+[15:36:06] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:36:06] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:36:06] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:36:06] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:36:06] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:36:06] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:36:06] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:36:16] Consultando status às 15:36:16...
+[15:36:16] Recebidos 28164 caracteres HTML.
+[15:36:16] Texto do nó de atualização: Atualizado: 20/05/2025 15:35:01
+[15:36:16] Horário completo extraído: 20/05/2025 15:35:01
+[15:36:16] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:36:16] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:36:16] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:36:16] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:36:16] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:36:16] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:36:16] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:36:26] Consultando status às 15:36:26...
+[15:36:26] Recebidos 28164 caracteres HTML.
+[15:36:26] Texto do nó de atualização: Atualizado: 20/05/2025 15:35:01
+[15:36:26] Horário completo extraído: 20/05/2025 15:35:01
+[15:36:26] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:36:26] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:36:26] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:36:26] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:36:26] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:36:26] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:36:26] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:36:50] Consultando status às 15:36:50...
+[15:36:56] Recebidos 28164 caracteres HTML.
+[15:36:56] Texto do nó de atualização: Atualizado: 20/05/2025 15:36:53
+[15:36:56] Horário completo extraído: 20/05/2025 15:36:53
+[15:36:56] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:36:56] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:36:56] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:36:56] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:36:56] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:36:56] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:36:56] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:36:56] Primeira ocorrência de Linha 1-Azul: Operação Normal
+[15:36:56] Primeira ocorrência de Linha 2-Verde: Operação Normal
+[15:36:56] Primeira ocorrência de Linha 3-Vermelha: Operação Normal
+[15:36:56] Primeira ocorrência de Linha 4-Amarela: Operação Normal
+[15:36:56] Primeira ocorrência de Linha 5-Lilás: Operação Normal
+[15:36:56] Primeira ocorrência de Linha 15-Prata: Operação Normal
+[15:37:06] Consultando status às 15:37:06...
+[15:37:06] Recebidos 28164 caracteres HTML.
+[15:37:06] Texto do nó de atualização: Atualizado: 20/05/2025 15:36:53
+[15:37:06] Horário completo extraído: 20/05/2025 15:36:53
+[15:37:06] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:37:06] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:37:06] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:37:06] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:37:06] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:37:06] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:37:06] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:37:15] Consultando status às 15:37:15...
+[15:37:15] Recebidos 28164 caracteres HTML.
+[15:37:15] Texto do nó de atualização: Atualizado: 20/05/2025 15:36:53
+[15:37:15] Horário completo extraído: 20/05/2025 15:36:53
+[15:37:15] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:37:15] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:37:15] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:37:15] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:37:15] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:37:15] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:37:15] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:37:16] Consultando status às 15:37:16...
+[15:37:16] Recebidos 28164 caracteres HTML.
+[15:37:16] Texto do nó de atualização: Atualizado: 20/05/2025 15:36:53
+[15:37:16] Horário completo extraído: 20/05/2025 15:36:53
+[15:37:16] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:37:16] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:37:16] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:37:16] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:37:16] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:37:16] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:37:16] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:37:26] Consultando status às 15:37:26...
+[15:37:26] Recebidos 28164 caracteres HTML.
+[15:37:26] Texto do nó de atualização: Atualizado: 20/05/2025 15:36:53
+[15:37:26] Horário completo extraído: 20/05/2025 15:36:53
+[15:37:26] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:37:26] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:37:26] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:37:26] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:37:26] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:37:26] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:37:26] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:37:36] Consultando status às 15:37:36...
+[15:37:37] Recebidos 28164 caracteres HTML.
+[15:37:37] Texto do nó de atualização: Atualizado: 20/05/2025 15:36:53
+[15:37:37] Horário completo extraído: 20/05/2025 15:36:53
+[15:37:37] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:37:37] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:37:37] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:37:37] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:37:37] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:37:37] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:37:37] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:37:47] Consultando status às 15:37:47...
+[15:37:47] Recebidos 28164 caracteres HTML.
+[15:37:47] Texto do nó de atualização: Atualizado: 20/05/2025 15:36:53
+[15:37:47] Horário completo extraído: 20/05/2025 15:36:53
+[15:37:47] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:37:47] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:37:47] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:37:47] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:37:47] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:37:47] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:37:47] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:43:19] Consultando status às 15:43:19...
+[15:43:25] Recebidos 28164 caracteres HTML.
+[15:43:25] Texto do nó de atualização: Atualizado: 20/05/2025 15:43:22
+[15:43:25] Horário completo extraído: 20/05/2025 15:43:22
+[15:43:25] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:43:25] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:43:25] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:43:25] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:43:25] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:43:25] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:43:25] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:43:25] Primeira ocorrência de Linha 1-Azul: Operação Normal
+[15:43:25] Primeira ocorrência de Linha 2-Verde: Operação Normal
+[15:43:25] Primeira ocorrência de Linha 3-Vermelha: Operação Normal
+[15:43:25] Primeira ocorrência de Linha 4-Amarela: Operação Normal
+[15:43:25] Primeira ocorrência de Linha 5-Lilás: Operação Normal
+[15:43:25] Primeira ocorrência de Linha 15-Prata: Operação Normal
+[15:43:36] Consultando status às 15:43:36...
+[15:43:36] Recebidos 28164 caracteres HTML.
+[15:43:36] Texto do nó de atualização: Atualizado: 20/05/2025 15:43:22
+[15:43:36] Horário completo extraído: 20/05/2025 15:43:22
+[15:43:36] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:43:36] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:43:36] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:43:36] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:43:36] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:43:36] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:43:36] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:43:46] Consultando status às 15:43:46...
+[15:43:46] Recebidos 28164 caracteres HTML.
+[15:43:46] Texto do nó de atualização: Atualizado: 20/05/2025 15:43:22
+[15:43:46] Horário completo extraído: 20/05/2025 15:43:22
+[15:43:46] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:43:46] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:43:46] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:43:46] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:43:46] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:43:46] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:43:46] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:43:48] Consultando status às 15:43:48...
+[15:43:48] Recebidos 28164 caracteres HTML.
+[15:43:48] Texto do nó de atualização: Atualizado: 20/05/2025 15:43:22
+[15:43:48] Horário completo extraído: 20/05/2025 15:43:22
+[15:43:48] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:43:48] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:43:48] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:43:48] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:43:48] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:43:48] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:43:48] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
+[15:43:56] Consultando status às 15:43:56...
+[15:43:56] Recebidos 28164 caracteres HTML.
+[15:43:56] Texto do nó de atualização: Atualizado: 20/05/2025 15:43:22
+[15:43:56] Horário completo extraído: 20/05/2025 15:43:22
+[15:43:56] Não foi possível obter status para todas as linhas. Encontrados: 0 de 6
+[15:43:56] Assumindo 'Operação Normal' para Linha 1-Azul (não encontrado explicitamente)
+[15:43:56] Assumindo 'Operação Normal' para Linha 2-Verde (não encontrado explicitamente)
+[15:43:56] Assumindo 'Operação Normal' para Linha 3-Vermelha (não encontrado explicitamente)
+[15:43:56] Assumindo 'Operação Normal' para Linha 4-Amarela (não encontrado explicitamente)
+[15:43:56] Assumindo 'Operação Normal' para Linha 5-Lilás (não encontrado explicitamente)
+[15:43:56] Assumindo 'Operação Normal' para Linha 15-Prata (não encontrado explicitamente)
