@@ -13,10 +13,12 @@ Um aplicativo para monitorar o status das linhas de metrô em São Paulo e notif
 - Configurações personalizáveis (intervalo de verificação, linhas a monitorar, etc.)
 - Opção para testar notificações
 
-## Bibliotecas Utilizadas
+## Bibliotecas e Tecnologias Utilizadas
 
-- `PersistirEmJson`: Persistir histórico de status em arquivo JSON
-- `MonitorarLinhaX`: Controle sobre quais linhas monitorar 
+- **C#/.NET**: Linguagem e framework de desenvolvimento
+- **Windows Forms**: Para a interface gráfica da versão desktop
+- **HtmlAgilityPack**: Para análise e extração de dados de páginas web
+- **System.Text.Json**: Para manipulação de arquivos de configuração JSON
 
 ## Requisitos
 
@@ -31,10 +33,6 @@ Um aplicativo para monitorar o status das linhas de metrô em São Paulo e notif
 3. Clique com o botão direito no ícone para acessar o menu
 4. Escolha "Mostrar Status" para ver o status atual das linhas
 5. Configure o aplicativo conforme necessário
-
-## Desenvolvimento
-
-Este projeto é desenvolvido em C# usando Windows Forms para a interface gráfica e versão console para ambientes sem GUI.
 
 ## Estrutura do Projeto
 
